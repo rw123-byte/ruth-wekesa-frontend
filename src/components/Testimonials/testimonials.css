@@ -1,0 +1,26 @@
+
+#testimonials {
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.testimonial-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.testimonial {
+  background-color: #1f1f1f;
+  padding: 2rem;
+  border-radius: 1rem;
+  max-width: 400px;
+  font-style: italic;
+}
+
+.testimonial h4 {
+  margin-top: 1rem;
+  color: red;
+}
